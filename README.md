@@ -111,3 +111,9 @@ ________________________________________________________________________________
 
 ### DAX Measures
 ![DAX Measures](Dashboard/Images/DAX_Measures.png)
+
+## 🎥 Project Walkthrough
+
+Watch the dashboard explanation video here:
+
+[▶️ Nexora Bank Churn Analysis Video](Video/Nexora_Bank_Churn_Analysis.mp4)
