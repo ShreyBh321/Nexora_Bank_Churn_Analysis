@@ -98,11 +98,16 @@ Make data-driven business decisions
 
 ## Dashboard Preview
 
-### Customer Overview
-![Dashboard](images/Overview.png)
+## Dashboard Preview 📊
 
-### Customer Behaviour Analysis
-![Dashboard](images/Customer Behaviour Analysis.png)
+### 1. Overview
+![Overview](dashboard/images/Overview.png)
 
-### Customer Financial Risk Analysis
-![Dashboard](images/Financial Risk Analysis.png)
+### 2. Customer Behaviour Analysis
+![Customer Behaviour Analysis](dashboard/images/Customer_Behaviour_Analysis.png)
+
+### 3. Financial Risk Analysis
+![Financial Risk Analysis](dashboard/images/Financial_Risk_Analysis.png)
+
+### 4. DAX Measures
+![DAX Measures](dashboard/images/DAX_Measures.png)
