@@ -95,3 +95,14 @@ Develop targeted retention campaigns
 Improve customer experience and loyalty
 
 Make data-driven business decisions
+
+## Dashboard Preview
+
+### Customer Overview
+![Dashboard](images/Overview.png)
+
+### Customer Behaviour Analysis
+![Dashboard](images/Customer Behaviour Analysis.png)
+
+### Customer Financial Risk Analysis
+![Dashboard](images/Financial Risk Analysis.png)
