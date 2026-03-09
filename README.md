@@ -94,11 +94,20 @@ Develop targeted retention campaigns
 
 Improve customer experience and loyalty
 
+Make data-driven business decisions
+
 ______________________________________________________________________________________________________________________________________________________
 
 ## 📊 Power BI Dashboard Preview
 
+### Overview
+![Overview](Dashboard/Images/Overview.png)
+
+### Customer Behaviour Analysis
+![Customer Behaviour Analysis](Dashboard/Images/customer_behaviour_analysis.png)
+
+### Financial Risk Analysis
+![Financial Risk Analysis](Dashboard/Images/Financial_Risk_Analysis.png)
+
+### DAX Measures
 ![DAX Measures](Dashboard/Images/DAX_Measures.png)
-
-
-Make data-driven business decisions
