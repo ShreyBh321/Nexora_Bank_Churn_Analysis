@@ -94,4 +94,11 @@ Develop targeted retention campaigns
 
 Improve customer experience and loyalty
 
+______________________________________________________________________________________________________________________________________________________
+
+## 📊 Power BI Dashboard Preview
+
+![DAX Measures](Dashboard/Images/DAX_Measures.png)
+
+
 Make data-driven business decisions
